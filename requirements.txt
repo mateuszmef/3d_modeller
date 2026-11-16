@@ -1,0 +1,5 @@
+numpy
+open3d>=0.18        # pierwsze wydanie z obsługą Pythona 3.12
+pycolmap
+pillow
+pillow-heif         # opcjonalne – obsługa zdjęć HEIC z iPhone'a

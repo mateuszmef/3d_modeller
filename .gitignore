@@ -1,0 +1,22 @@
+# System
+.DS_Store
+
+# Środowiska i cache Pythona
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dane wejściowe (zdjęcia) i wyniki przetwarzania – duże, nie do repo
+sample/
+*_3d/
+*.heic
+*.HEIC
+*.heif
+*.jpg
+*.jpeg
+*.png
+*.ply
+*.stl
+*.obj
+*.mvs
